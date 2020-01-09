@@ -6,9 +6,9 @@
 
 ___
 
-<p> We are a development agency building
+<p> 
   
 
-<a href="https://www.linkedin.com/in/jawad-ali-3804ab24/"><img src="https://i.imgur.com/vGjsQPt.png" width="134" height="34"></a> <a 
+<a href="https://www.linkedin.com/in/jawad-ali-3804ab24/"><img src="https://i.imgur.com/vGjsQPt.png" width="134" height="34"></a>  
 
 </br></br>
