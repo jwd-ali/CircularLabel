@@ -6,8 +6,9 @@
 
 ___
 
-</br>
+<p> We are a development agency building
+  
 
-<a href="https://www.linkedin.com/in/jawad-ali-3804ab24/"><img src="https://github.com/jwd-ali/TidalTestProject/blob/master/images/header/follow-us-on-linkedin-button_2385315.png"></a>
+<a href="https://www.linkedin.com/in/jawad-ali-3804ab24/"><img src="https://i.imgur.com/vGjsQPt.png" width="134" height="34"></a> <a 
 
 </br></br>
