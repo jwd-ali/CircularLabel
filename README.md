@@ -1,4 +1,3 @@
-# CircularLabel
 <img src="https://github.com/jwd-ali/TidalTestProject/blob/master/images/header/header.png">
 <img align="right" src="https://github.com/jwd-ali/CircularLabel/blob/master/ezgif.com-video-to-gif.gif" width="480" />
 <p><h1 align="left"> 🎧 CircularLabel </h1></p>
