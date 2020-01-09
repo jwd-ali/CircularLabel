@@ -12,7 +12,7 @@ import UIKit
 
 @IBDesignable
 class Circularlabel: UILabel {
-    //Description
+    //
     // *******************************************************
     // DEFINITIONS (Because I'm not brilliant and I'll forget most this tomorrow.)
     // Radius: A straight line from the center to the circumference of a circle.
